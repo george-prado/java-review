@@ -27,6 +27,6 @@ public class Main {
         Math.random = double return
          */
 
-        System.out.print(m);
+        System.out.print(year);
     }
 }
