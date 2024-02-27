@@ -17,6 +17,16 @@ public class Main {
             ans = String.format("The year %d is not considered a leap year", year);
         }
 
-        System.out.print(ans);
+
+        /*
+        About the Math class
+
+        Math.floor = double return
+        Math.ceil = double return
+        Math.round = long return
+        Math.random = double return
+         */
+
+        System.out.print(m);
     }
 }
